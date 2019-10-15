@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Paula Pucite</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        <ul>
+          <li><a href="home.html">About</a></li>
+          <li><a href="experience.html">Experience</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </header>
+    <main>
+      <div>
+        <h3> Want to keep in touch? </h3>
+        <p>Feel free to contact me</p>
+        </div>
+        <div>
+            <div id="contact-col-1">
+            <img src=" ">
+            <p> If you have any questions.</p>
+            <p> I would love to tell you more about my experience and skills that I have acquired.</p>
+            </div>
+            <div id="contact-col-2">
+            <img src=" ">
+            <p> If you have create something together. </p>
+            <p>If you are looking for someone who could be a member of your team, I might be the right one.</p>
+            </div>
+            <div id="contact-col-3">
+            <img src=" ">
+            <p> Just want to chat.</p>
+            <p> I enjoy good conversations. </p>
+            </div>
+        </div>
+    <footer>
+      <div>
+        <div id="footer-col-1">
+          <ul>
+            <li><a href="https://www.facebook.com/paula.pucite.7">img src="fb.jpg"</a></li>
+            <li><a href="https://www.linkedin.com/feed/">img src="linkedin.jpg"</a></li>
+        ??    <li><a href="https://www.gmail.com">img src="mail"</a></li>
+        </ul>
+       </div>
+       <div id="footer-col-2">
+         <p>Copyright 2019</p>
+       </div>
+     </div>
+   </footer>
+ </body>
+ </html>
