@@ -1,6 +1,249 @@
+
+body{
+	background-color: #f7efd9;
+}
 img {
 	width: 300px;
+	display: block;
+	text-align: center;
+	margin-bottom: 60px;
 }
-body{
-	background-color: #faecc5;
+.head{
+width: 400px;
+font-family: fantasy;
+font-size: 50px;
+text-align: center;
+text-shadow: 20px;
+margin-left: 440px;
+margin-top: 50px;
+margin-bottom: 5px;
+}
+#container{
+	width: 1000px;
+	margin: 50px auto;
+	background-color: #e3d9cc;
+}
+header {
+	background-color: #f7efd9;
+}
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+	text-align: center;     ??? I want this centered
+}
+
+header li {
+  float:left;
+	margin-left: 60px;
+	text-align: center;
+	padding-top:50px;
+	padding-bottom: 10px;
+}
+
+header li a {
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+	font-size: 20px;
+	margin-right: 50px;
+	font-family: inherit;
+}
+
+header li a:hover {
+  color: #9e9c99;
+}
+
+main{
+	padding: 0 10px;
+}
+/*This is for the home page */
+#home-col-1{
+	display: inline-block;
+	width: 485px;
+	vertical-align: top;
+	direction: center;
+}
+#row-1{
+font-family: inherit;
+padding-left: 80px;
+padding-right: 80px;
+
+}
+#home-col-2{
+	display: inline-block;
+	width: 485px;
+	vertical-align: top;
+	letter-spacing: 2px;
+	padding-left: : 5px;
+	margin-right: 200px;
+}
+.port{
+width: 800px;
+margin-left: 100px;
+text-align: left;
+text-indent: 45px;
+margin-bottom: 50px;
+margin-top: 30px;
+line-height: 20px;
+
+}
+.center{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ padding-top: 50px;
+}
+.centered{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ padding-bottom: 80px;
+ padding-left: 80px;
+ padding-right: 80px;
+ text-align: center;
+ text-indent: 20px;
+ line-height: 30px;
+}
+
+#experience-col-1{
+	display: inline-block;
+	width: 485px;
+	vertical-align: top;
+}
+#experience-col-2{
+	display: inline-block;
+	width: 485px;
+	vertical-align: top;
+	line-height: 20px;
+}
+.home-row-1{
+	display: inline-block;
+	width: 293px;
+	background-color: #4da6ff;
+	border: 1px solid black;
+	margin-top: 20px;
+}
+#home-row-2-col-2{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+#project-row-2-col1{
+	display: inline-block;
+	width: 260px;
+	margin-right: 50px;
+	margin-left: 10px;
+	margin-top: 20px;
+	padding: 0 20px;
+	vertical-align: top;
+	text-align: left;
+}
+#project-row-2-col2{
+	display: inline-block;
+	width: 260px;
+	margin-right: 10px;
+	margin-left: 150px;
+	padding: 0 20px;
+	vertical-align: top;
+	text-align: left;
+}
+.choco{
+width: 300px;
+align-items: center;
+}
+.poster{
+width: 300px;
+align-items: center;
+margin-left: 75px;
+
+}
+.wizz{
+width: 450px;
+align-items: center;
+}
+
+#projects{
+width: 255px;
+}
+/*This is for the About page */
+
+#project-col-1{
+	display: inline-block;
+	width: 260px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border: 1px solid black;
+	padding: 0 20px;
+	vertical-align: top;
+	text-align: left;
+}
+h4{
+	text-align: center;
+}
+#project-col-2{
+	display: inline-block;
+	width: 260px;
+	margin-right: 10px;
+	border: 1px solid black;
+	padding: 0 20px;
+	vertical-align: top;
+	text-align: center;
+	text-align: left;
+}
+#project-col-3{
+	display: inline-block;
+	width: 260px;
+	margin-right: 10px;
+	border: 1px solid black;
+	padding: 0 20px;
+	vertical-align: top;
+	text-align: center;
+	text-align: left;
+}
+
+#contact-col-1{
+	display: inline-block;
+	width: 285px;
+	vertical-align: top;
+}
+#contact-col-2 {
+	display: inline-block;
+	width: 600px;
+  margin-left: 80px;
+	padding-top: 80px;
+}
+.host{
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+
+}
+.if{
+text-align: center;
+}
+
+#footer-col-2 {
+text-align: right;
+}
+
+footer {
+	background-color: #f7efd7;
+}
+footer img {
+margin-top: 200px;
+width: 35px;
+border-radius: 50%;
+padding: 0 5px;
+
+}
+
+footer ul {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+footer li {
+	float: left;
 }
